@@ -11,3 +11,9 @@ PDF/Latex files are done too for documentation.
 Code is written with clear naming and spacing and ideas.
 JSON files are used to save game states such as login credentials, scores, saved games to continue from.
 Proper JSON manipulation is used for all the above services.
+
+
+THE GAME IS CURRENTLY IN PROGRESS.
+GUI AND LOGGING IN IS DONE.
+GAME 1 IS ALMOST DONE.
+GAME 2 WILL BE DONE AROUND DECEMBER 1ST.
