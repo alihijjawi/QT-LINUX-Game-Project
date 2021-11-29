@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>FlagImages/AntarcticaF</file>
+        <file>FlagImages/AustriaF</file>
+        <file>FlagImages/JapanF</file>
+        <file>FlagImages/LebanonF</file>
+        <file>FlagImages/RussiaF</file>
+        <file>FlagImages/SyriaF</file>
+        <file>Game1Files/miss.png</file>
+        <file>Game1Files/explosion.png</file>
+        <file>Game1Files/LS/BSL.jpeg</file>
+        <file>Game1Files/LS/BSML.jpeg</file>
+        <file>Game1Files/LS/BSMR.jpeg</file>
+        <file>Game1Files/LS/BSR.jpeg</file>
+        <file>Game1Files/MS/MSL.jpeg</file>
+        <file>Game1Files/MS/MSR.jpeg</file>
+        <file>Game1Files/SmallShip.jpeg</file>
+        <file>Game1Files/wrongQ.png</file>
+        <file>Game1Files/questionsCP.json</file>
+        <file>Game1Files/OurShips/MSL.jpg</file>
+        <file>Game1Files/OurShips/MSR.jpg</file>
+        <file>Game1Files/OurShips/SmallShip.png</file>
+        <file>Game1Files/questionsHP.json</file>
+        <file>Game1Files/questionsPC.json</file>
+        <file>Game1Files/menu1.png</file>
+        <file>Game1Files/game1backround1.png</file>
+        <file>Game1Files/mainMenu.jpeg</file>
+        <file>Game1Files/signUp.jpeg</file>
+        <file>Game1Files/gameMenu.jpeg</file>
+        <file>Game2Files/game2background.jpeg</file>
+        <file>Game2Files/leftCar.png</file>
+        <file>Game2Files/midCar.png</file>
+        <file>Game2Files/rightCar.png</file>
+        <file>Game2Files/collector.png</file>
+        <file>Game2Files/game2background1.jpeg</file>
+        <file>Game2Files/game2background2.jpeg</file>
+        <file>Game2Files/game2background3.jpeg</file>
+        <file>Game2Files/menu2.jpeg</file>
+        <file>Game2Files/Music/zoom.mpeg</file>
+        <file>Game2Files/Music/DESERT.mpeg</file>
+        <file>Game2Files/Music/CITY.mpeg</file>
+        <file>Game2Files/Music/HELL.mpeg</file>
+        <file>Game2Files/Music/TINGTING.mpeg</file>
+        <file>Game2Files/game2rules.json</file>
+    </qresource>
+</RCC>
