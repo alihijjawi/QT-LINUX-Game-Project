@@ -2,7 +2,8 @@
 This is a game system coded on linux system through Qt creator using C++.
 The game system has a login system where one can sign up, sign in, or play as a guest.
 Logged in users have a graph with their history scores, can upload profile pictures.
-Two games are available, battle ships with a custom mode where you win by answering correct educational questions about programming.
+Any saved data is kept in JSON files.
+Two games are available, battleships with a custom mode where you win by answering correct educational questions about programming.
 The other game is a speed based game where you should hit the correct buttons at a specific time, like guitar hero.
 
 All classes are created with headers and cpp files, with full documentation using DOXYGEN on linux.
