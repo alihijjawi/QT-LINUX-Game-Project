@@ -1,0 +1,115 @@
+{
+    "questions": [
+        {
+            "A-question": "1",
+            "B-questionText": "The correct way to put a mask is:",
+            "C-choices": [
+                "only over your mouth",
+                "only over your nose",
+                "over you mouth and nose/",
+                "none because you are vaccinated"
+            ]
+        },
+        {
+            "A-question": "2",
+            "B-questionText": "Playing a sport or exercising directly after lunch is:",
+            "C-choices": [
+                "good since you would have a lot of energy",
+                "bad because the moving food inside you will be stuck if you are active",
+                "good because it will increase your muscle growth",
+                "bad because you'd be slow and might vommit/"
+            ]
+        },
+        {
+            "A-question": "3",
+            "B-questionText": "You should brush your teeth atleast:",
+            "C-choices": [
+                "Twice a week",
+                "Once a day",
+                "Twice a day/",
+                "Six times a day"
+            ]
+        },
+        {
+            "A-question": "4",
+            "B-questionText": "If a family member you saw recently tested positive for Covid-19.\nYou should:",
+            "C-choices": [
+                "Hug them because they need the hug",
+                "Continue your work/university life normally because you're feeling fine",
+                "Isolate yourself until you're sure you test negative/",
+                "Isolate with that family member because you're sure you're positive"
+            ]
+        },
+        {
+            "A-question": "5",
+            "B-questionText": "Doing sports is:",
+            "C-choices": [
+                "Bad because it raises your heart rate",
+                "Bad because it raises your body temperature",
+                "Good because it decreases your life expectancy",
+                "Good because it makes you healthier/"
+            ]
+        },
+        {
+            "A-question": "6",
+            "B-questionText": "The easiest way to get rid of slight foot fungus is:",
+            "C-choices": [
+                "pee on your feet while showering/",
+                "scratch them off your skin",
+                "apply honey on them",
+                "drink apple vinegar"
+            ]
+        },
+        {
+            "A-question": "7",
+            "B-questionText": "To get rid of an eye itch you should:",
+            "C-choices": [
+                "touch your eye with your finger",
+                "let someone blow into it",
+                "drip some water into it/",
+                "keep it open until it dries out"
+            ]
+        },
+        {
+            "A-question": "8",
+            "B-questionText": "The most important consumable you should have is:",
+            "C-choices": [
+                "Meat",
+                "Water/",
+                "Vegetables",
+                "Bread"
+            ]
+        },
+        {
+            "A-question": "9",
+            "B-questionText": "When you wake up, the worst thing to do is:",
+            "C-choices": [
+                "stay in bed on your phone/",
+                "stretch and get ready for breakfast",
+                "drink water",
+                "go to the bathroom"
+            ]
+        },
+        {
+            "A-question": "10",
+            "B-questionText": "When dealing with a depressed person, the best way to treat them is:",
+            "C-choices": [
+                "showing love and care",
+                "buying them things they love",
+                "both answers",
+                "depends on the person we are dealing with/"
+            ]
+        },
+        {
+            "A-question": "11",
+            "B-questionText": "The average amount of hours an adult should have is:",
+            "C-choices": [
+                "7",
+                "8/",
+                "6",
+                "9"
+            ]
+        }
+
+    ]	
+}

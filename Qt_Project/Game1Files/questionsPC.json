@@ -1,0 +1,114 @@
+{
+    "questions": [
+        {
+            "A-question": "1",
+            "B-questionText": "What is Fairuz' real name?",
+            "C-choices": [
+                "Nouhad Haddad/",
+                "Reem Haddad",
+                "Nadine Labaki",
+                "Jaafar Issa"
+            ]
+        },
+        {
+            "A-question": "2",
+            "B-questionText": "What is the highest grossing movie of all time?",
+            "C-choices": [
+                "Avatar/",
+                "Avengers: Endgame",
+                "Titanic",
+                "Shawshank Redemption"
+            ]
+        },
+        {
+            "A-question": "3",
+            "B-questionText": "How many Teletubbies are there?",
+            "C-choices": [
+                "4/",
+                "6",
+                "3",
+                "2"
+            ]
+        },
+        {
+            "A-question": "4",
+            "B-questionText": "What is the most watched series on Netflix?",
+            "C-choices": [
+                "Squid Game/",
+                "Friends",
+                "The Witcher",
+                "Money Heist"
+            ]
+        },
+        {
+            "A-question": "5",
+            "B-questionText": "In the movie Titanic, what is the name of the main characters?",
+            "C-choices": [
+                "Jack and Rose/",
+                "Jake and Jill",
+                "Abbas and Stefanie",
+                "Zeinoun and Malak"
+            ]
+        },
+        {
+            "A-question": "6",
+            "B-questionText": "In the movie Star Wars, what is the name of the small green Jedi Master?",
+            "C-choices": [
+                "Yoda/",
+                "Palpatine",
+                "Maul",
+                "Dooku"
+            ]
+        },
+        {
+            "A-question": "7",
+            "B-questionText": "Who carries Thor's hammer in Avengers: Endgame?",
+            "C-choices": [
+                "Captain America/",
+                "Ironman",
+                "Spiderman",
+                "No one"
+            ]
+        },
+        {
+            "A-question": "8",
+            "B-questionText": "What is the name of the coffee shop in Friends?",
+            "C-choices": [
+                "Central Perk/",
+                "Starbucks",
+                "Unicorn Blends",
+                "Coffee Hub"
+            ]
+        },
+        {
+            "A-question": "9",
+            "B-questionText": "What is the best-selling video game of all time?",
+            "C-choices": [
+                "Minecraft/",
+                "PUBG",
+                "Grand Theft Auto V",
+                "Fortnite"
+            ]
+        },
+        {
+            "A-question": "10",
+            "B-questionText": "How many Elder Scrolls games are there?",
+            "C-choices": [
+                "5/",
+                "3",
+                "4",
+                "2"
+            ]
+        },
+        {
+            "A-question": "11",
+            "B-questionText": "How many players are in one Fortnite lobby?",
+            "C-choices": [
+                "10",
+                "50",
+                "100/",
+                "60"
+            ]
+        }
+    ]	
+}

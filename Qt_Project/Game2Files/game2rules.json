@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "A-winningScore": "150",
+            "B-totalLives": "3"
+        }
+    ]
+}

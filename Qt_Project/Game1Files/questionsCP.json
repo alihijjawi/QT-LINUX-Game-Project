@@ -1,0 +1,114 @@
+{
+    "questions": [
+        {
+            "A-question": "1",
+            "B-questionText": "Your project team mate decided to use multiple inheritance on a class that is always used often.\nYou should:",
+            "C-choices": [
+                "encourage him to use more inherited classes",
+                "be glad because multiple inheritance allows more flexibility with using a class instance",
+                "stop him because multiple inheritance will cause huge bugs in overlapping functions and pointers/",
+                "stop him because one should not use multiple inheritance with often used classes"
+            ]
+        },
+        {
+            "A-question": "2",
+            "B-questionText": "You wanted to increment an integer i, decrement an integer j, and then add them both.\nYour code should look like this:",
+            "C-choices": [
+                "j++; i--; int k = i + j;",
+                "int k = ++i + --j;",
+                "int k = i++ + j--;",
+                "i++; j--; int k = i + j;/"
+            ]
+        },
+        {
+            "A-question": "3",
+            "B-questionText": "Calling a function of an object is best done like this:",
+            "C-choices": [
+                "(*ptr).foo();",
+                "ptr -> foo();/",
+                "foo(ptr);",
+                "ptr.foo();"
+            ]
+        },
+        {
+            "A-question": "4",
+            "B-questionText": "You are trying to name a variable amongst 30 other variables, where this variable is the amount of milk the green cow makes in liters.\nThe variable would best be named as:",
+            "C-choices": [
+                "GCML",
+                "greencowmilk",
+                "greenCowMilk/",
+                "temp"
+            ]
+        },
+        {
+            "A-question": "5",
+            "B-questionText": "You have created a vector of integers 'A' and you used it for a while to save some values, then you wanted to make it untouchable/constant.\nThe best thing to do:",
+            "C-choices": [
+                "vector<int> B = A;",
+                "const vector<int> B = A;",
+                "const vector<int> B = A.clone();/",
+                "const vector<int> B = A; delete A;"
+            ]
+        },
+        {
+            "A-question": "6",
+            "B-questionText": "After opening a file using file.open()\nYou should call:",
+            "C-choices": [
+                "file.resize();",
+                "file.exists();",
+                "file.close();/",
+                "file.remove();"
+            ]
+        },
+        {
+            "A-question": "7",
+            "B-questionText": "Class X inherits from class Y. A pointer of type Y is pointing to an Object of type X\nCalling an overwritten function will call:",
+            "C-choices": [
+                "X's function",
+                "Y's function/",
+                "Both",
+                "None"
+            ]
+        },
+        {
+            "A-question": "8",
+            "B-questionText": "To avoid unwanted mistakes using overwritten functions in inherited classes\nYou should use:",
+            "C-choices": [
+                "const void foo();",
+                "void foo();",
+                "static void foo();",
+                "virtual void foo();/"
+            ]
+        },
+        {
+            "A-question": "9",
+            "B-questionText": "You should compile your code:",
+            "C-choices": [
+                "After every line",
+                "At the end of the project",
+                "After every few lines/",
+                "Halfway through the project and at the end of it"
+            ]
+        },
+        {
+            "A-question": "10",
+            "B-questionText": "Dynamically created objects should:",
+            "C-choices": [
+                "Be deleted/",
+                "Ignored because C++ has a garbage collector",
+                "Ignored because that memory is useless",
+                "Be kept"
+            ]
+        },
+        {
+            "A-question": "11",
+            "B-questionText": "Version control should:",
+            "C-choices": [
+                "Not be used because it's tedious",
+                "Not be used because it's safer and easier to store code locally",
+                "Be used because it is a fast and safe way to remotely coordinate work on a large project/",
+                "Be used because git is a free tool"
+            ]
+        }
+    ]	
+}
